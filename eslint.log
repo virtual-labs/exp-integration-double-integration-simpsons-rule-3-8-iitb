@@ -1,0 +1,228 @@
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/js/activity1.js
+   20:24  warning  'MathJax' is not defined                   no-undef
+   23:10  warning  'start_act1' is defined but never used     no-unused-vars
+   28:20  warning  'get_collapse_btn_text' is not defined     no-undef
+   72:5   warning  'hide_all_steps' is not defined            no-undef
+   73:5   warning  'show_step' is not defined                 no-undef
+   74:24  warning  'MathJax' is not defined                   no-undef
+   76:10  warning  'select_mn' is defined but never used      no-unused-vars
+   89:5   warning  'n' is not defined                         no-undef
+   90:5   warning  'm' is not defined                         no-undef
+   93:29  warning  'n' is not defined                         no-undef
+   94:29  warning  'm' is not defined                         no-undef
+  105:5   warning  'hx' is not defined                        no-undef
+  105:21  warning  'n' is not defined                         no-undef
+  106:5   warning  'hy' is not defined                        no-undef
+  106:21  warning  'm' is not defined                         no-undef
+  109:10  warning  'start_act1_p2' is defined but never used  no-unused-vars
+  114:20  warning  'get_collapse_btn_text' is not defined     no-undef
+  121:25  warning  'n' is not defined                         no-undef
+  121:43  warning  'm' is not defined                         no-undef
+  125:24  warning  'x1' is not defined                        no-undef
+  125:45  warning  'x2' is not defined                        no-undef
+  129:24  warning  'y1' is not defined                        no-undef
+  129:45  warning  'y2' is not defined                        no-undef
+  149:5   warning  'hide_all_steps' is not defined            no-undef
+  150:5   warning  'show_step' is not defined                 no-undef
+  151:24  warning  'MathJax' is not defined                   no-undef
+  153:10  warning  'verify_hx_hy' is defined but never used   no-unused-vars
+  155:26  warning  'hx' is not defined                        no-undef
+  158:26  warning  'hy' is not defined                        no-undef
+  161:10  warning  'verify_values' is not defined             no-undef
+  161:47  warning  'hx' is not defined                        no-undef
+  165:10  warning  'verify_values' is not defined             no-undef
+  165:48  warning  'hy' is not defined                        no-undef
+  171:23  warning  'hx' is not defined                        no-undef
+  173:24  warning  'hy' is not defined                        no-undef
+  174:5   warning  'activity2' is not defined                 no-undef
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/js/activity2.js
+   1:10   warning  'activity2' is defined but never used      no-unused-vars
+  15:5    warning  'maindiv' is not defined                   no-undef
+  16:24   warning  'MathJax' is not defined                   no-undef
+  19:10   warning  'start_act2' is defined but never used     no-unused-vars
+  24:20   warning  'get_collapse_btn_text' is not defined     no-undef
+  44:5    warning  'maindiv' is not defined                   no-undef
+  45:5    warning  'hide_all_steps' is not defined            no-undef
+  46:5    warning  'show_step' is not defined                 no-undef
+  48:24   warning  'MathJax' is not defined                   no-undef
+  52:5    warning  'header' is not defined                    no-undef
+  56:5    warning  'header' is not defined                    no-undef
+  57:31   warning  'n' is not defined                         no-undef
+  58:9    warning  'header' is not defined                    no-undef
+  58:25   warning  'x1' is not defined                        no-undef
+  58:34   warning  'hx' is not defined                        no-undef
+  61:31   warning  'm' is not defined                         no-undef
+  62:9    warning  'tb_data' is not defined                   no-undef
+  62:27   warning  'y1' is not defined                        no-undef
+  62:36   warning  'hy' is not defined                        no-undef
+  66:31   warning  'm' is not defined                         no-undef
+  67:35   warning  'n' is not defined                         no-undef
+  68:29   warning  'x1' is not defined                        no-undef
+  68:39   warning  'hx' is not defined                        no-undef
+  68:47   warning  'y1' is not defined                        no-undef
+  68:57   warning  'hy' is not defined                        no-undef
+  70:13   warning  'tb_data' is not defined                   no-undef
+  76:18   warning  'Verify_Rows_Cols_Strings' is not defined  no-undef
+  76:43   warning  'header' is not defined                    no-undef
+  76:51   warning  'tb_data' is not defined                   no-undef
+  76:118  warning  'activity1_p1' is not defined              no-undef
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/js/activity3.js
+    1:10   warning  'activity1_p1' is defined but never used  no-unused-vars
+    4:19   warning  'get_collapse_btn_text' is not defined    no-undef
+    5:5    warning  'maindiv' is not defined                  no-undef
+   30:22   warning  'MathJax' is not defined                  no-undef
+   31:5    warning  'hide_all_steps' is not defined           no-undef
+   33:9    warning  'show_step' is not defined                no-undef
+   35:5    warning  'get_raw_table_data' is not defined       no-undef
+   38:10   warning  'verify_s' is defined but never used      no-unused-vars
+   39:17   warning  's' is not defined                        no-undef
+   40:25   warning  's' is not defined                        no-undef
+   42:14   warning  'verify_values' is not defined            no-undef
+   42:64   warning  's' is not defined                        no-undef
+   59:25   warning  's' is not defined                        no-undef
+   60:34   warning  's' is not defined                        no-undef
+   69:25   warning  'header' is not defined                   no-undef
+   70:20   warning  'header' is not defined                   no-undef
+   71:34   warning  'header' is not defined                   no-undef
+   74:34   warning  'header' is not defined                   no-undef
+   80:25   warning  'tb_data' is not defined                  no-undef
+   82:29   warning  'tb_data' is not defined                  no-undef
+   83:24   warning  'tb_data' is not defined                  no-undef
+   84:36   warning  'tb_data' is not defined                  no-undef
+   87:36   warning  'tb_data' is not defined                  no-undef
+   95:25   warning  's' is not defined                        no-undef
+  106:5    warning  's' is not defined                        no-undef
+  107:25   warning  'raw_data' is not defined                 no-undef
+  108:9    warning  's' is not defined                        no-undef
+  109:30   warning  'raw_data' is not defined                 no-undef
+  110:13   warning  's' is not defined                        no-undef
+  110:21   warning  'raw_data' is not defined                 no-undef
+  110:42   warning  'raw_data' is not defined                 no-undef
+  110:67   warning  'raw_data' is not defined                 no-undef
+  110:88   warning  'raw_data' is not defined                 no-undef
+  112:9    warning  's' is not defined                        no-undef
+  112:22   warning  'hy' is not defined                       no-undef
+  112:33   warning  's' is not defined                        no-undef
+  118:10   warning  'load_I_div' is defined but never used    no-unused-vars
+  122:5    warning  'I' is not defined                        no-undef
+  123:26   warning  'raw_data' is not defined                 no-undef
+  124:9    warning  'I' is not defined                        no-undef
+  124:14   warning  's' is not defined                        no-undef
+  124:25   warning  's' is not defined                        no-undef
+  124:40   warning  's' is not defined                        no-undef
+  124:51   warning  's' is not defined                        no-undef
+  126:5    warning  'I' is not defined                        no-undef
+  126:11   warning  'hx' is not defined                       no-undef
+  126:26   warning  'I' is not defined                        no-undef
+  144:22   warning  'MathJax' is not defined                  no-undef
+  146:10   warning  'verify_I' is defined but never used      no-unused-vars
+  147:17   warning  'I' is not defined                        no-undef
+  149:10   warning  'verify_values' is not defined            no-undef
+  149:60   warning  'I' is not defined                        no-undef
+  163:118  warning  'I' is not defined                        no-undef
+  168:22   warning  'MathJax' is not defined                  no-undef
+  170:10   warning  'exp_complete' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/js/data.js
+   2:5   warning  'n' is assigned a value but never used          no-unused-vars
+   3:5   warning  'm' is assigned a value but never used          no-unused-vars
+  43:5   warning  'x2' is assigned a value but never used         no-unused-vars
+  44:5   warning  'x1' is assigned a value but never used         no-unused-vars
+  45:5   warning  'y1' is assigned a value but never used         no-unused-vars
+  46:5   warning  'y2' is assigned a value but never used         no-unused-vars
+  47:5   warning  'hx' is assigned a value but never used         no-unused-vars
+  48:5   warning  'hy' is assigned a value but never used         no-unused-vars
+  65:5   warning  'x_vals' is assigned a value but never used     no-unused-vars
+  66:5   warning  'y_vals' is assigned a value but never used     no-unused-vars
+  69:5   warning  'y' is assigned a value but never used          no-unused-vars
+  73:5   warning  'header' is assigned a value but never used     no-unused-vars
+  74:5   warning  'tb2_data' is assigned a value but never used   no-unused-vars
+  75:5   warning  's' is assigned a value but never used          no-unused-vars
+  76:5   warning  'I' is assigned a value but never used          no-unused-vars
+  77:5   warning  'I_val' is assigned a value but never used      no-unused-vars
+  78:10  warning  'get_raw_table_data' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/js/gauss_ele.js
+  42:10  warning  'gauss_ele' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-integration-double-integration-simpsons-rule-3-8-iitb/exp-integration-double-integration-simpsons-rule-3-8-iitb/experiment/simulation/js/trap.js
+   4:10  warning  'generate_data' is defined but never used  no-unused-vars
+  13:10  warning  'trap' is defined but never used           no-unused-vars
+  21:10  warning  'sim1by3' is defined but never used        no-unused-vars
+  29:10  warning  'sim3by8' is defined but never used        no-unused-vars
+
+✖ 195 problems (0 errors, 195 warnings)
+

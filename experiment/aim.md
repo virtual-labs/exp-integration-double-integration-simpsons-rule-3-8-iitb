@@ -1,1 +1,11 @@
-<h2>AIM: To study method base on Finite Difference</h2>
+﻿<h3>Aim:</h3> 
+<p>To calculate the integration using Double Integration with Simpson's (3/8) Rule</p>
+
+
+
+
+
+
+
+
+

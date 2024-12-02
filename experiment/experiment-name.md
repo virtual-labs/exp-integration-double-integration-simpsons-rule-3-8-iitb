@@ -1,1 +1,1 @@
-## Differentiation - Method Based on Finite Difference
+## Integration - Double Integration Simpson's (3/8th) Rule
